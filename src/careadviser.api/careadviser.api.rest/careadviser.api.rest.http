@@ -1,0 +1,6 @@
+@careadviser.api.rest_HostAddress = http://localhost:5152
+
+GET {{careadviser.api.rest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
